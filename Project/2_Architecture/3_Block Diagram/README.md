@@ -1,1 +1,1 @@
-![Block-diagram-of-heating-process-control-system](https://user-images.githubusercontent.com/94218902/144030494-2a28d8da-c80a-4189-8e36-04377345ae03.png)
+![image](https://user-images.githubusercontent.com/98883917/155764946-ad73c044-b629-4ca2-8a3a-0eca129b562c.png)

@@ -1,8 +1,7 @@
 # Seat Heating System
-[![cppcheck-action-test](https://github.com/Muskan-Jaiswal-209/M2_Embedded_Heating-System/actions/workflows/cpp%20check.yml/badge.svg)](https://github.com/Muskan-Jaiswal-209/M2_Embedded_Heating-System/actions/workflows/cpp%20check.yml)
 ![code score](https://api.codiga.io/project/30199/score/svg)
 ![code grade](https://api.codiga.io/project/30199/status/svg)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/f7008f21fa86431098cff43db2bd833b)]
+![Codacy Badge](https://app.codacy.com/project/badge/Grade/f7008f21fa86431098cff43db2bd833b)
 
 ## Folder Structure
 Folder               | Description
